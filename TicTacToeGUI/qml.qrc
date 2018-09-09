@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Cell.qml</file>
+        <file>MainPanel.qml</file>
+        <file>MainPanelForm.ui.qml</file>
+        <file>PlayerRow.qml</file>
+        <file>PlayersColumn.qml</file>
+        <file>CellsArea.qml</file>
+        <file>MessageBox.qml</file>
+    </qresource>
+</RCC>
